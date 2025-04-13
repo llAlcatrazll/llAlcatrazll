@@ -32,6 +32,7 @@
     <td width="33%">
       <h3>Languages</h3>
       <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+      <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
       <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript" />
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5" />
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
@@ -53,6 +54,12 @@
       <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git" />
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
       <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma" />
+      <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Obsidian-4B4BFF?style=flat-square&logo=obsidian&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
     </td>
   </tr>
 </table>
