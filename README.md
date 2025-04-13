@@ -92,7 +92,7 @@
 </p>
     </td>
   </tr>
-  <tr>
+  <tr width="100%">
     <td>
       <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llAlcatrazll&layout=compact&theme=tokyonight" />
