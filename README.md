@@ -1,13 +1,8 @@
 <h1 align="center">Hey there 👋, I'm Alcatraz</h1>
 <h3 align="center">🚀 Web Developer | 🎮 Game Developer | 💻 Front-End Enthusiast</h3>
-
-<p align="center">
-  <img src="https://github.com/llAlcatrazll/llAlcatrazll/blob/main/assets/Screenshot%202025-04-13%20220209.png" alt="Alcatraz's Banner" width="60%"/>
-</p>
-
----
-
-## 🧠 About Me
+<div class=flex flex-col>
+<div>
+  ## 🧠 About Me
 
 - 🔭 I’m currently working on an action-packed survival game using **SQLite & JavaScript**
 - 🌱 Learning advanced **React**, **WebGL**, and performance optimization for games
@@ -16,6 +11,18 @@
 - ✍️ I share dev updates, cool experiments, and tutorials across socials
 
 ---
+</div>
+<div>
+    <p align="center">
+  <img src="https://github.com/llAlcatrazll/llAlcatrazll/blob/main/assets/Screenshot%202025-04-13%20220209.png" alt="Alcatraz's Banner" width="60%"/>
+</p>
+</div>
+
+</div>
+
+---
+
+
 
 ## 💻 Tech Stack
 
