@@ -1,24 +1,26 @@
 <h1 align="center">Hey there 👋, I'm Alcatraz</h1>
 <h3 align="center">🚀 Web Developer | 🎮 Game Developer | 💻 Front-End Enthusiast</h3>
 <div class=flex flex-col>
-<div>
-  ## 🧠 About Me
+<table>
+  <tr>
+    <td width="50%">
 
-- 🔭 I’m currently working on an action-packed survival game using **SQLite & JavaScript**
-- 🌱 Learning advanced **React**, **WebGL**, and performance optimization for games
-- 🧩 Building games inspired by **Vampire Survivors** & **Survivor.io**
-- ⚙️ Always experimenting with **game mechanics**, **pixel art**, and **responsive UI/UX**
-- ✍️ I share dev updates, cool experiments, and tutorials across socials
+### 🧠 About Me
 
----
-</div>
-<div>
-    <p align="center">
-  <img src="https://github.com/llAlcatrazll/llAlcatrazll/blob/main/assets/Screenshot%202025-04-13%20220209.png" alt="Alcatraz's Banner" width="60%"/>
-</p>
-</div>
+- 🔭 Working on a survival game using **SQLite & JavaScript**
+- 🌱 Learning **React**, **WebGL**, and game optimization
+- 🧩 Inspired by **Vampire Survivors** & **Survivor.io**
+- ⚙️ Exploring pixel art & responsive UI/UX
+- ✍️ Posting devlogs & tutorials
 
-</div>
+</td>
+    <td width="50%" align="center">
+
+<img src="https://github.com/llAlcatrazll/llAlcatrazll/blob/main/assets/Screenshot%202025-04-13%20220209.png" width="80%" alt="Alcatraz's Banner"/>
+
+</td>
+  </tr>
+</table>
 
 ---
 
