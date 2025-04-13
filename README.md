@@ -57,9 +57,6 @@
 <p align="left">
   <a href="https://github.com/llAlcatrazll" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-llAlcatrazll-181717?style=flat-square&logo=github"></a>
   <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-YourName-0077B5?style=flat-square&logo=linkedin"></a>
-  <a href="https://twitter.com/yourtwitter" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=flat-square&logo=twitter"></a>
-  <a href="https://www.instagram.com/yourinstagram" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@yourhandle-E4405F?style=flat-square&logo=instagram"></a>
-  <a href="https://www.tiktok.com/@yourtiktok" target="_blank"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-@yourtiktok-000000?style=flat-square&logo=tiktok"></a>
   <a href="https://yourportfolio.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-ff5722?style=flat-square&logo=google-chrome"></a>
 </p>
 
@@ -67,15 +64,30 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<table>
+  <tr width="50%">
+    <td>
+      <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=llAlcatrazll&show_icons=true&theme=tokyonight" alt="Alcatraz GitHub stats" />
 </p>
-<p align="center">
+    </td>
+    <td>
+      <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=llAlcatrazll&theme=tokyonight" />
 </p>
-<p align="center">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llAlcatrazll&layout=compact&theme=tokyonight" />
 </p>
+    </td>
+  </tr>
+</table>
+
+
+
 
 ---
 
