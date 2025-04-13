@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Web Developer | 🎮 Game Developer | 💻 Front-End Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/llAlcatrazll/llAlcatrazll/blob/main/assets/Screenshot%202025-04-13%20220209.png" alt="Alcatraz's Banner" />
+  <img src="https://github.com/llAlcatrazll/llAlcatrazll/blob/main/assets/Screenshot%202025-04-13%20220209.png" alt="Alcatraz's Banner" width="60%"/>
 </p>
 
 ---
